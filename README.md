@@ -1,6 +1,6 @@
 # Finish off school
 
-This template should help get you started developing with Vue 3 in Vite.
+The Vue.js Training Template is a starter project designed for educational courses or training sessions. It offers a structured and well-documented codebase with examples and exercises that cover a wide range of Vue.js concepts, facilitating effective learning and demonstration of Vue.js development.
 
 ## Recommended IDE Setup
 
